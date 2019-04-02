@@ -1,0 +1,39 @@
+.post-more .more-link:hover,
+.symp-btn:hover,
+.process:hover > .number,
+.pricing-table > .table-btn:hover,
+.service > .icon,
+.hobby > .icon,
+.footer-social > li > a:hover,
+.process > .number > span:after{
+	background: transparent;
+}
+
+.close-btn > span:before{
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+.timeline > li:not(.timeline-header):before{
+	background-image: linear-gradient(to right,#4facfe 0%, #00f2fe 100%);
+}
+.sidebar-list > li > a:hover,
+.post .read-more:hover,
+.post > .content > h4 > a:hover,
+.process > .number,
+.front-person-links > ul > li > a:hover{
+	color:#B7A389;
+}
+
+.skill > h4{
+	color:black;
+}
+
+.testimonials-slider .owl-controls > .owl-pagination > .owl-page > span,
+.form-control:focus,
+.process.last > .number > span:before,
+.process > .number{
+	border-color:#B7A389;
+}
+.process > .number > span:before{
+	border-left-color:#B7A389;
+}
